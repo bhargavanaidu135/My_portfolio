@@ -292,18 +292,24 @@ img {
   z-index: var(--z-back);
 }
 .skills__html {
-  width: 95%;
+  width: 80%;
 }
-.skills__Docker {
-  width: 85%;
+.skills__docker {
+  width: 75%;
 }
-.skills__kubernetes {
+.skills__k8s {
   width: 65%;
 }
-.skills__Ansible {
-  width: 85%;
+.skills__jenkins {
+  width: 80%;
 }
-.skills__Terraform {
+.skills__azdevops {
+  width: 75%;
+}
+.skills__ansible {
+  width: 50%;
+}
+.skills__terraform {
   width: 60%;
 }
 .skills__img {
