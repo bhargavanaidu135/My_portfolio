@@ -246,8 +246,9 @@ img {
   justify-self: center;
 }
 .about__img img {
-  width: 200px;
-  border-radius: 0.5rem;
+  width: 300px;
+  border-radius: 50%;
+  /* border-radius: 0.5rem; */
 }
 
 /* ===== SKILLS =====*/
